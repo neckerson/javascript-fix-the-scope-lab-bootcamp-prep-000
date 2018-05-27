@@ -30,5 +30,4 @@ var funkyFunction = function() {
 
 xxxx = funkyFunction()
 
-console.log(xxxx())
 theFunk = xxxx()
