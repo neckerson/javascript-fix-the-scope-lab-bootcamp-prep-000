@@ -31,5 +31,5 @@ var funkyFunction = function() {
 var funk = funkyFunction()
 a = funk()
 
-print a
+print(a)
 theFunk = a
