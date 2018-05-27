@@ -29,5 +29,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var funk = funkyFunction()
-
-theFunk = funk
+a = funk()
+theFunk = a
