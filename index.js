@@ -32,4 +32,4 @@ var funk = funkyFunction()
 var a = funk()
 
 console.log(a)
-theFunk = a
+var theFunk = a
